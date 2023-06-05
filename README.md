@@ -7,7 +7,7 @@ This assignment is to create a simple web page in which users can register, add 
 
 ## Technology Stack
 * Front-End: React Native
-* Back-End: Spring Boot or Django
+* Back-End: Spring Boot
 * Database: PostgreSQL
 
 ### Front-End
