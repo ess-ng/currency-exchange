@@ -6,7 +6,7 @@ This assignment is to create a simple web page in which users can register, add 
 > E.g. https://exchangeratesapi.io/documentation/
 
 ## Technology Stack
-* Front-End: React JS
+* Front-End: React Native
 * Back-End: Spring Boot or Django
 * Database: PostgreSQL
 
